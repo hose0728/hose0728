@@ -4,6 +4,7 @@
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/c%23-9933CC?style=flat-square&logo=C%23&logoColor=white"/>
+  
  </div>
 <div align = "center"> BackEnd Tech  <div>
  <div>
@@ -27,6 +28,11 @@
  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
  
  </div>
+  
+  
+ <div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hose0728&show_icons=true&theme=algolia)
+  </div>
 
 
 <!--
