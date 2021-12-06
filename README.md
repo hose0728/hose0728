@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align = "center"> 🍀 The technology I'm interested in 🍀 </p> 
+<div align = "center"> BackEnd Tech
+ <div>
 
 <!--
 **hose0728/hose0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
