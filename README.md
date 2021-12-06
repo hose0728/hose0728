@@ -3,7 +3,7 @@
  <div>
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
- <img src="https://img.shields.io/badge/c%23-9933CC?style=flat-square&logo=C%23&logoColor=white"/>
+ <img src="https://img.shields.io/badge/c%23-9933CC?style=flat-square&logo=Csharp&logoColor=white"/>
  </div>
  <br>
 <div align = "center"> BackEnd Tech  <div>
