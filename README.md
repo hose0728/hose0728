@@ -1,7 +1,8 @@
-<p align = "center"> 🍀 The technology I'm interested in 🍀 </p> 
+<p align = "center"> 🍀 The technologies I'm interested in 🍀 </p> 
 <div align = "center"> Programing Language  <div>
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/c#-007396?style=flat-square&logo=C#&logoColor=white"/>
 <div align = "center"> BackEnd Tech  <div>
 
 
