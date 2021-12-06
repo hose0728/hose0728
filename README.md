@@ -2,8 +2,9 @@
 <div align = "center"> Programing Language  <div>
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
- <img src="https://img.shields.io/badge/c%23-9933CC?style=flat-square&logo=C%23oColor=white"/>
+ <img src="https://img.shields.io/badge/c%23-9933CC?style=flat-square&logo=C%23&logoColor=white"/>
 <div align = "center"> BackEnd Tech  <div>
+ <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 
 <!--
