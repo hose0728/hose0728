@@ -1,6 +1,9 @@
 <p align = "center"> 🍀 The technology I'm interested in 🍀 </p> 
-<div align = "center"> BackEnd Tech
- <div>
+<div align = "center"> Programing Language  <div>
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></br>
+<div align = "center"> BackEnd Tech  <div>
+
 
 <!--
 **hose0728/hose0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
