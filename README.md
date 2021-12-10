@@ -1,4 +1,4 @@
-<p align = "center"> 🍀 The technologies I'm interested in 🍀 </p> 
+<p align = "center"> 🌱 The technologies I'm interested in 🌱 </p> 
 <div align = "center"> Programing Language  <div>
  <div>
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
