@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HOSE%20JOO&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HOSE%20JOO&fontSize=90&theme=gruvbox" />
 
 <p align = "center"> 🌱 The technologies I'm interested in 🌱 </p> 
 <div align = "center"> Programing Language  <div>
