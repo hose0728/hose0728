@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&width=600&text=HOSE%20JOO&fontSize=50&theme=gruvbox&show_icons=true&desc=Stay%10Hungry%20Stay%10 Poolish&descSize=30&descAlign=80&descAlignY=70&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=100&width=600&text=HOSE%20JOO&fontSize=50&theme=gruvbox&show_icons=true&desc=Stay%10HungryStayPoolish&descSize=30&descAlign=80&descAlignY=70&fontAlignY=40" />
 
 <p align = "center"> 🌱 The technologies I'm interested in 🌱 </p> 
 <div align = "center"> Programing Language  <div>
