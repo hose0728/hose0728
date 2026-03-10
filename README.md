@@ -41,11 +41,11 @@
 
 <br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<a href="https://github.com/hose0728">
   <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=hose0728&show_icons=true&theme=prussian" />
 </a>
-<a href="https://solved.ac/hose123" title="Go to Source">
-  <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hose123" alt="Solved.ac프로필" />
+<a href="https://solved.ac/hose123">
+  <img align="center" width=360 src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hose123" alt="Solved.ac프로필" />
 </a>
 
 </div>
