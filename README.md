@@ -41,8 +41,8 @@
 
 <br><br>
 
-<a href="https://github.com/hose0728">
-  <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=hose0728&show_icons=true&theme=prussian" />
+<a href="https://git.io/streak-stats">
+  <img align="center" width=450 src="https://streak-stats.demolab.com/?user=hose0728&theme=prussian" />
 </a>
 <a href="https://solved.ac/hose123">
   <img align="center" width=360 src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hose123" alt="Solved.ac프로필" />
