@@ -37,14 +37,6 @@
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hose0728/hose0728/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hose0728/hose0728/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/hose0728/hose0728/output/snake.svg" />
-</picture>
-
-<br><br>
-
 <a href="https://solved.ac/hose123">
   <img width="360" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hose123" alt="Solved.ac 프로필" />
 </a>
