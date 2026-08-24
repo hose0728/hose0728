@@ -37,8 +37,8 @@
 
 <br><br>
 
-<a href="https://git.io/streak-stats">
-  <img width="450" src="https://streak-stats.demolab.com/?user=hose0728&theme=prussian" alt="GitHub Streak" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=hose0728&theme=prussian&card_width=450&disable_animations=true" alt="GitHub Streak" />
 </a>
 <a href="https://solved.ac/hose123">
   <img width="360" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hose123" alt="Solved.ac 프로필" />
